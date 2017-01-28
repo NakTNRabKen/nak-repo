@@ -1,4 +1,4 @@
-Change in branch master
+feature change
 second line
 third line
 feature change
