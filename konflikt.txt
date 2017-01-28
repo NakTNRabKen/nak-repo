@@ -1,3 +1,6 @@
 Emils content
 Kenneth
+<<<<<<< HEAD
 Lukas
+=======
+>>>>>>> a8e65e4cbd350e66efaa689258a1476fba378d55
